@@ -6,6 +6,7 @@ A collection of my solutions to LeetCode problems.
 ## Array
 |  |
 | ------- |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Mayuri3166/Leet-Code/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Mayuri3166/Leet-Code/tree/master/2586-longest-square-streak-in-an-array) |
 ## Hash Table
 |  |
@@ -23,4 +24,12 @@ A collection of my solutions to LeetCode problems.
 |  |
 | ------- |
 | [2586-longest-square-streak-in-an-array](https://github.com/Mayuri3166/Leet-Code/tree/master/2586-longest-square-streak-in-an-array) |
+## Sliding Window
+|  |
+| ------- |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Mayuri3166/Leet-Code/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Prefix Sum
+|  |
+| ------- |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Mayuri3166/Leet-Code/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
